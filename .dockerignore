@@ -1,5 +1,5 @@
 # Ignore Maven build artifacts
-#target/
+target/
 
 # Ignore IDE files
 .idea/
